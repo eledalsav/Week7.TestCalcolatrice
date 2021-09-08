@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Week7.Calcolatrice\Week7.Calcolatrice.csproj" />
+    <ProjectReference Include="..\Week7.TestCalcolatrice\Week7.TestCalcolatrice.csproj" />
+  </ItemGroup>
+
+</Project>
